@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="76395d9b-67ab-4f27-9ee4-f881e4e9bd06" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Yr6WfzpjumfHffAgAzJx9txXlD" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Repos/GeekForGeeks" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.rabbitMq">
+    <configuration name="Reciever" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Reciever" />
+      <module name="RabbitMqTutorial" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="RabbitMqTutorial" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rabbitMq" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Send" />
+      <module name="RabbitMqTutorial" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.rabbitMq" />
+      <item itemvalue="Application.Reciever" />
+      <item itemvalue="Application.Test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Reciever" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76395d9b-67ab-4f27-9ee4-f881e4e9bd06" name="Default Changelist" comment="" />
+      <created>1583688398257</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583688398257</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="278" y="58" width="800" height="677" key="#Project_Structure" timestamp="1583689747914">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="278" y="58" width="800" height="677" key="#Project_Structure/0.27.1366.741@0.27.1366.741" timestamp="1583689747914" />
+    <state x="141" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583688633407">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="141" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.741@0.27.1366.741" timestamp="1583688633407" />
+    <state x="415" y="182" width="525" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1583688622969">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="415" y="182" width="525" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog/0.27.1366.741@0.27.1366.741" timestamp="1583688622969" />
+    <state x="366" y="124" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1584862762949">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="366" y="124" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.27.1366.741@0.27.1366.741" timestamp="1584862762949" />
+    <state x="416" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585416287393">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="416" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1366.741@0.27.1366.741" timestamp="1585416287393" />
+    <state x="738" y="257" key="#xdebugger.evaluate" timestamp="1584813554422">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="738" y="257" key="#xdebugger.evaluate/0.27.1366.741@0.27.1366.741" timestamp="1584813554422" />
+    <state width="517" height="417" key="DebuggerActiveHint" timestamp="1585852621123">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="517" height="417" key="DebuggerActiveHint/0.27.1366.741@0.27.1366.741" timestamp="1585852621123" />
+    <state x="466" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1585415512112">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="466" y="154" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1585415512112" />
+    <state width="1320" height="206" key="GridCell.Tab.0.bottom" timestamp="1585852912606">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="206" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1585852912606" />
+    <state width="1320" height="206" key="GridCell.Tab.0.center" timestamp="1585852912605">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="206" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1585852912605" />
+    <state width="1320" height="206" key="GridCell.Tab.0.left" timestamp="1585852912605">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="206" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1585852912605" />
+    <state width="1320" height="206" key="GridCell.Tab.0.right" timestamp="1585852912606">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="206" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1585852912606" />
+    <state width="1320" height="282" key="GridCell.Tab.1.bottom" timestamp="1585852680161">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="282" key="GridCell.Tab.1.bottom/0.27.1366.741@0.27.1366.741" timestamp="1585852680161" />
+    <state width="1320" height="282" key="GridCell.Tab.1.center" timestamp="1585852680161">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="282" key="GridCell.Tab.1.center/0.27.1366.741@0.27.1366.741" timestamp="1585852680161" />
+    <state width="1320" height="282" key="GridCell.Tab.1.left" timestamp="1585852680161">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="282" key="GridCell.Tab.1.left/0.27.1366.741@0.27.1366.741" timestamp="1585852680161" />
+    <state width="1320" height="282" key="GridCell.Tab.1.right" timestamp="1585852680161">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="282" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1585852680161" />
+    <state x="216" y="54" width="924" height="684" key="Maven.ArtifactSearchDialog" timestamp="1583688535942">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="216" y="54" width="924" height="684" key="Maven.ArtifactSearchDialog/0.27.1366.741@0.27.1366.741" timestamp="1583688535942" />
+    <state x="233" y="115" width="890" height="562" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1585415385100">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="233" y="115" width="890" height="562" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.27.1366.741@0.27.1366.741" timestamp="1585415385100" />
+    <state x="347" y="42" width="672" height="676" key="search.everywhere.popup" timestamp="1583688570516">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="347" y="42" width="672" height="676" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1583688570516" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Reciever.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
